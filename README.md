@@ -19,6 +19,6 @@ Finished recently:
 * [How do I maintain my daily journal](https://vtorosyan.github.io/how-do-i-organize-my-day/)
 * [Arrays - Why O(1) time access?](https://vtorosyan.github.io/arrays-why-constant-time-access/) 
 
-### Find me in
+### ⚙️ Find me in
 
 [![Vardan's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1534407&layout=compact&theme=dark)](https://stackoverflow.com/users/1534407/vtor)
