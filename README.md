@@ -5,12 +5,12 @@ Check out my [Engineering Manager README](https://vtorosyan.github.io/engineerin
 
 ### 📚 Latest Blog Posts
 
+* [Navigating through organizational change with TERA framework](https://vtorosyan.github.io/navigating-change-with-tera/)
 * [Synchronous, collaborative code reviews](https://vtorosyan.github.io/synchronous-collaborative-code-reviews/)
 * [Collaborative programming in remote-first environment](https://vtorosyan.github.io/collaborative-programming/)
 * [My Engineering Manager README](https://vtorosyan.github.io/engineering-manager-readme/) 
 * [Forming a Community of Practice](https://vtorosyan.github.io/community-of-practice/)
 * [Histograms in SQL](https://vtorosyan.github.io/histograms-sql/)
-* [Reading in November](https://vtorosyan.github.io/reading-in-november/)
 
 ### ⚙️ You can also find me in
 
