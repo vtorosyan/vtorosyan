@@ -5,6 +5,8 @@ Check out my [Engineering Manager README](https://vtorosyan.github.io/engineerin
 
 ### 📚 Latest Blog Posts
 
+* [Icebreaker ideas for distributed teams](https://vtorosyan.github.io/retrospective-ice-breaker/)
+* [Making work visible with GitHub Projects and Grafana](https://vtorosyan.github.io/making-work-visible-github-grafana/)
 * [Navigating through organizational change with TERA framework](https://vtorosyan.github.io/navigating-change-with-tera/)
 * [Synchronous, collaborative code reviews](https://vtorosyan.github.io/synchronous-collaborative-code-reviews/)
 * [Collaborative programming in remote-first environment](https://vtorosyan.github.io/collaborative-programming/)
