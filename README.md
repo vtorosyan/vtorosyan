@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Vardan!
 
 I'm a software engineer turned engineering manager. 
-Check out my [Engineering Manager README]([https://vtorosyan.github.io/engineering-manager-readme/](https://vtorosyan.github.io/engineering-manager-readme/) to learn more about my values and beliefs.
+Check out my [Engineering Manager README](https://vtorosyan.github.io/engineering-manager-readme/) to learn more about my values and beliefs.
 
 ### 📚 Latest Blog Posts
 
